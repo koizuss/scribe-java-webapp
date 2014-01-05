@@ -5,3 +5,9 @@ tmp
 
 tmp.xml
 links.txt
+
+.classpath
+.gradle/
+.project
+.settings/
+build/
